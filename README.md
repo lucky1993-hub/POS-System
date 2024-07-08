@@ -30,11 +30,11 @@ This project contains automated tests for the POS Website using Selenium with Ja
 Open the project in your preferred IDE.
 Resolve dependencies using Maven (pom.xml).
 
-###Running Tests:
+### Running Tests:
 
-1.Run tests using TestNG:
-2.Run all tests: Right-click on testng.xml and select "Run".
-3.Run individual test classes.
+1. Run tests using TestNG:
+2. Run all tests: Right-click on testng.xml and select "Run".
+3. Run individual test classes.
 
 ### Reporting:
 Allure Reporting:
