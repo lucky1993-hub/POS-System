@@ -22,8 +22,8 @@ This project contains automated tests for the POS Website using Selenium with Ja
 ### Getting Started
 
 1. **Clone the Repository:**
-   git clone https://github.com/your-username/repository-name.git](https://github.com/lucky1993-hub/Pos-Automation.git
-   cd POS-System
+   - git clone https://github.com/your-username/repository-name.git](https://github.com/lucky1993-hub/Pos-Automation.git
+   - cd POS-System
 
 ### Set Up Project:
 
@@ -44,5 +44,5 @@ Generate Allure reports:
 
 ## Project Structure:
 
-src/main/java: Contains main Java code.
-src/test/java: Contains test classes.
+- src/main/java: Contains main Java code.
+- src/test/java: Contains test classes.
